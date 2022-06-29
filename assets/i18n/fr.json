@@ -1,0 +1,15 @@
+{
+    "login": "Connexion",
+    "logout": "Se déconnecter",
+    "enter_your_name": "Entrez votre nom",
+    "confirm": "Confirmer",
+    "cancel": "Annuler",
+    "hello": "Bonjour, {name}",
+    "counter": "Compteur",
+    "settings": "Réglages",
+    "language": "Langue",
+    "about": "À propos de",
+    "terms_conditions": "Termes et Conditions",
+    "privacy_policies": "Les Politiques de Confidentialité",
+    "version_x": "Version {}"
+}
